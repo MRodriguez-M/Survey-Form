@@ -1,0 +1,12 @@
+#title, #description {
+  text-align: center;
+}
+#survey-form {
+    outline: solid red;
+    padding: 20px;
+    text-align: left;
+    list-style-position: inside;
+    margin: auto;
+    width: 50%;
+    font-family: Verdena, sans-serif;
+}
