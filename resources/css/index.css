@@ -2,11 +2,18 @@
   text-align: center;
 }
 #survey-form {
-    outline: solid red;
+    background-color: #e5e5e5;
     padding: 20px;
+    border-radius: 5px;
     text-align: left;
     list-style-position: inside;
     margin: auto;
     width: 50%;
     font-family: Verdena, sans-serif;
+}
+#dropdown, #name, #email, #number {
+  width: 100%
+}
+label {
+  line-height: 2em;
 }
