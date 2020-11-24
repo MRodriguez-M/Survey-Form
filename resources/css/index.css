@@ -11,9 +11,21 @@
     width: 50%;
     font-family: Verdena, sans-serif;
 }
-#dropdown, #name, #email, #number {
+#dropdown, #name, #email, #number, textarea {
   width: 100%
 }
 label {
   line-height: 2em;
+}
+#button{
+  text-align: center;
+}
+#submit{
+  background-color: #dd2020;
+  border: none;
+  padding: 15px;
+  cursor: pointer;
+}
+body{
+  background-color: #a5a2a2;
 }
