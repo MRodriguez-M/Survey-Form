@@ -1,5 +1,11 @@
 #title, #description {
   text-align: center;
+  background-color: #dd2020;
+  font-family: Verdena, sans-serif;
+  padding: 15px;
+  width: 30%;
+  margin: auto;
+  border-radius: 50px;
 }
 #survey-form {
     background-color: #e5e5e5;
@@ -28,4 +34,7 @@ label {
 }
 body{
   background-color: #a5a2a2;
+}
+#disclaimer{
+  text-align: center;
 }
